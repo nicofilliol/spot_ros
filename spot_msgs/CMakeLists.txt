@@ -44,6 +44,7 @@ add_service_files(
   SetVelocity.srv
   ClearBehaviorFault.srv
   UploadGraph.srv
+  Dock.srv
 )
 
 add_action_files(
